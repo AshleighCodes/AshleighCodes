@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 -->
+
 😄 Pronouns: She/Her/Hers/Autistic
 ⚡️ Fun fact: I'm a latin dancer, and have been for over 2 years 💃 I absolutely love it!
 📫 How to reach me: ***Stay tuned!***
