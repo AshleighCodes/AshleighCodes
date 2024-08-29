@@ -1,4 +1,4 @@
-## Hi there! 👋 _WORK IN PROGRESS - Bio will be updated very soon!_
+## Hi there! 👋
 
 
 <!--
