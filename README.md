@@ -22,5 +22,7 @@ Here are some ideas to get you started:
 
 😄 Pronouns: She/Her/Hers/Autistic.<br/>
 ⚡️ Fun fact: I'm a latin dancer, and have been for over 2 years 💃 I absolutely love it!<br/>
+<!--
 📫 How to reach me: ***Stay tuned!***<br/>
+-->
 
