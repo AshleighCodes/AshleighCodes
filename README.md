@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 💜 I'm a current She Codes Plus Australia student!<br/>
 🏖️ I'm based in Brisbane QLD, Australia.<br/>
 🌱 I’m currently learning HTML, CSS, Python, Django and React JS.<br/>
-👩‍💻 I'm career-pivoting from customer success, to frontend developer with a focus on accessibility.<br/>
+👩‍💻 I'm a developing developer!<br/>
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
